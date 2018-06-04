@@ -1,0 +1,39 @@
+General
+
+body {
+	font-family: "Raleway", sans-serif;
+	text-align: center;
+	font-size: 20px;
+	margin: 0;
+}
+header{
+	background-color: #F15B31;
+	color: #FFFFFF;
+	padding: 30px 20px;
+
+}
+nav{
+	background-color: #00A6B3;
+	color: #FFFFFF;
+	padding: 20px 25px;
+h1{
+    color: #FFFFFF;
+    font-size: 50px;
+	margin: 0;
+}
+a{
+	color: #FFFFFF;
+	margin: 0 20px;
+}
+main{ 
+	width:850px;
+	margin: 35px auto;
+}
+Board
+
+img{
+	margin: 40px 8px 0;
+}
+div{
+	margin: 40px 10px;
+}
